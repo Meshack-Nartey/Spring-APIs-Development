@@ -1,19 +1,8 @@
-# The Ultimate Spring Boot Course
+# Spring Boot Store API
 
-This repository contains the starter project for Part 2 of my Spring Boot course:
+A RESTful API for managing e-commerce store users built with Java 24, Spring Boot, Spring Data JPA, MySQL and Lombok. Features include user CRUD operations, password management, address management, user profiles and product wishlists.
 
-[https://codewithmosh.com/p/spring-boot-building-apis](https://codewithmosh.com/p/spring-boot-building-apis)
-
-## About this Repository 
-
-This project is based on the final project from Part 1 of the course, but I’ve cleaned it up and removed unnecessary playground code so we can focus on building APIs in Part 2.
-
-You’ll be cloning this repository and coding along with me as we extend the project.
-
-To get started, clone the repository to your local machine:
-
-```sh
-git clone https://github.com/mosh-hamedani/spring-api-starter
-
-cd spring-api
-```
+## Quick Start
+1. Clone repo: `git clone https://github.com/meshack-nartey/spring-apis-development
+2. .git`
+3. Configure MySQL in `application.properties`:
